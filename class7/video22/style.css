@@ -1,0 +1,11 @@
+.social{
+    width: 120px;
+    height: 120px;
+    background-image:url(hon.jpg) ;
+    background-position: 0 -245;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.social:hover{
+    background-position: 0 0;
+}
